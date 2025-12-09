@@ -10,17 +10,16 @@
 
 - 🔧 I develop **web & mobile applications** using modern tech stacks
 - 🤖 Passionate about **AI integration** in practical and innovative solutions
-- 🏆 **Hackathon Winner** – AI decision-making system for agriculture & irrigation
 - 🌱 Fast learner with strong motivation and continuous improvement mindset
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Flutter • Dart • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap  
-**Backend:** Node.js • Symfony • Firebase  
+**Frontend:** Flutter • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap  • React 
+**Backend:** Express.js • Symfony • Firebase  
 **Database:** SQL • Firebase Firestore • MongoDB  
-**Dashboard & Analytics:** React • Chart.js
+**Dashboard & Analytics:**  Chart.js
 
 ---
 
