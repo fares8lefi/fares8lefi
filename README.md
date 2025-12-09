@@ -50,9 +50,8 @@
 
 ## 📫 Contact
 
-📧 **Email:** fares.lafi@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/faresla  
-💻 **GitHub:** https://github.com/faresla
+📧 **Email:** fareslefi4@gmail.com  
+💻 **PORTFELIO**fareslefi.netlify.app
 
 ---
 
