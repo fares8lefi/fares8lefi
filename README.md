@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Fares Lafi</h1>
 <p align="center">
-  <b>First-year Engineering Student — Business Computing @ ESPRIT</b><br/>
-  Bachelor's Degree in Business Intelligence <br/>
+  <b>Second-year Engineering Student @ ESPRIT</b><br/>
+  Licence Degree in Business Intelligence <br/>
   Passionate about Software Development, Cloud/DevOps, and AI
 </p>
 
