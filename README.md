@@ -12,13 +12,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Engineering student in **Business Computing** at ESPRIT, aiming for a career combining **Software Engineering** and **Cloud/DevOps**
-- 💻 I build **web & mobile applications** using modern tech stacks
-- ☁️ Exploring **DevOps** practices — CI/CD, Docker, Kubernetes, GitHub Actions
-- 🤖 Passionate about integrating **AI** into practical, real-world solutions
-- 🌱 Fast learner, currently building experience in Tunisia with an eye on international opportunities
+-  Engineering student in **Business Computing** at ESPRIT, aiming for a career combining **Software Engineering** and **Cloud/DevOps**
+-  I build **web & mobile applications** using modern tech stacks
+-  Exploring **DevOps** practices — CI/CD, Docker, Kubernetes, GitHub Actions
+-  Passionate about integrating **AI** into practical, real-world solutions
+-  Fast learner, currently building experience in Tunisia with an eye on international opportunities
 
 ---
 
@@ -55,24 +55,24 @@
 
 ---
 
-### 🎯 Current Goals
+###  Current Goals
 
-- 🏗️ Solidify engineering foundations at **ESPRIT**
-- ☁️ Deepen skills in **AI, Cloud & Data**
+-  Solidify engineering foundations at **ESPRIT**
+-  Deepen skills in **AI, Cloud & Data**
 
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
-| 📦 **Fluxio** | SaaS platform for stock, product & invoicing management (Node.js, Express, Prisma, MySQL) |
-| 🎓 **SkillPath** | Academic project combining Symfony/JavaFX with Firebase/FlutterFlow mobile, ML-based intrusion detection & CI/CD pipelines |
+|  **Fluxio** | SaaS platform for stock, product & invoicing management (Node.js, Express, Prisma, MySQL) |
+|  **SkillPath** | Academic project combining Symfony/JavaFX with Firebase/FlutterFlow mobile, ML-based intrusion detection & CI/CD pipelines |
 
 ---
 
-### 🌐 Languages
+###  Languages
 
 - 🇹🇳 **Arabic:** Native
 - 🇫🇷 **French:** Working proficiency, improving
@@ -80,10 +80,10 @@
 
 ---
 
-### 📫 Contact
+###  Contact
 
-- 📧 **Email:** [fareslefi4@gmail.com](mailto:fareslefi4@gmail.com)
-- 🌍 **Portfolio:** [https://lafifares.me/](https://lafifares.me/)
+-  **Email:** [fareslefi4@gmail.com](mailto:fareslefi4@gmail.com)
+-  **Portfolio:** [https://lafifares.me/](https://lafifares.me/)
 
 ---
 
